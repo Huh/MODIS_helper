@@ -1,0 +1,10 @@
+name: MODIS_helper
+account: joshnwk
+server: shinyapps.io
+appId: 120439
+bundleId: 533607
+url: https://joshnwk.shinyapps.io/MODIS_helper/
+when: 1471389470.92416
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_creation/Tile_Creation.R
